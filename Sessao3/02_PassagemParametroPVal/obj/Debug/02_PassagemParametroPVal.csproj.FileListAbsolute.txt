@@ -1,0 +1,5 @@
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\02_PassagemParametroPVal\bin\Debug\02_PassagemParametroPVal.exe.config
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\02_PassagemParametroPVal\bin\Debug\02_PassagemParametroPVal.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\02_PassagemParametroPVal\bin\Debug\02_PassagemParametroPVal.pdb
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\02_PassagemParametroPVal\obj\Debug\02_PassagemParametroPVal.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\02_PassagemParametroPVal\obj\Debug\02_PassagemParametroPVal.pdb

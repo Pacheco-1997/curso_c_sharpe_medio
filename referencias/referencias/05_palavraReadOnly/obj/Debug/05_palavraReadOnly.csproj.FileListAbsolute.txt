@@ -1,0 +1,6 @@
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\05_palavraReadOnly\bin\Debug\05_palavraReadOnly.exe.config
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\05_palavraReadOnly\bin\Debug\05_palavraReadOnly.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\05_palavraReadOnly\bin\Debug\05_palavraReadOnly.pdb
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\05_palavraReadOnly\obj\Debug\05_palavraReadOnly.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\05_palavraReadOnly\obj\Debug\05_palavraReadOnly.pdb
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\05_palavraReadOnly\obj\Debug\05_palavraReadOnly.csprojResolveAssemblyReference.cache

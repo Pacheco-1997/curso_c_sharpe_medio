@@ -1,0 +1,6 @@
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\03_Encapsulamento\bin\Debug\03_Encapsulamento.exe.config
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\03_Encapsulamento\bin\Debug\03_Encapsulamento.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\03_Encapsulamento\bin\Debug\03_Encapsulamento.pdb
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\03_Encapsulamento\obj\Debug\03_Encapsulamento.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\03_Encapsulamento\obj\Debug\03_Encapsulamento.pdb
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\03_Encapsulamento\obj\Debug\03_Encapsulamento.csprojResolveAssemblyReference.cache

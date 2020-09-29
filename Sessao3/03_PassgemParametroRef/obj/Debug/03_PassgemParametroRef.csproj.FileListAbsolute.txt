@@ -1,0 +1,6 @@
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\03_PassgemParametroRef\bin\Debug\03_PassgemParametroRef.exe.config
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\03_PassgemParametroRef\bin\Debug\03_PassgemParametroRef.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\03_PassgemParametroRef\bin\Debug\03_PassgemParametroRef.pdb
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\03_PassgemParametroRef\obj\Debug\03_PassgemParametroRef.csprojResolveAssemblyReference.cache
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\03_PassgemParametroRef\obj\Debug\03_PassgemParametroRef.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\03_PassgemParametroRef\obj\Debug\03_PassgemParametroRef.pdb

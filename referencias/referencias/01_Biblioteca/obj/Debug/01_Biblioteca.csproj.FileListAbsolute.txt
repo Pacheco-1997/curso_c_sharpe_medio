@@ -1,0 +1,5 @@
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\01_Biblioteca\bin\Debug\01_Biblioteca.dll
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\01_Biblioteca\bin\Debug\01_Biblioteca.pdb
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\01_Biblioteca\obj\Debug\01_Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\01_Biblioteca\obj\Debug\01_Biblioteca.dll
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\referencias\01_Biblioteca\obj\Debug\01_Biblioteca.pdb

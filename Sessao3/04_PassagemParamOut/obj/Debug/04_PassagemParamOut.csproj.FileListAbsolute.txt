@@ -1,0 +1,6 @@
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\04_PassagemParamOut\bin\Debug\04_PassagemParamOut.exe.config
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\04_PassagemParamOut\bin\Debug\04_PassagemParamOut.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\04_PassagemParamOut\bin\Debug\04_PassagemParamOut.pdb
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\04_PassagemParamOut\obj\Debug\04_PassagemParamOut.csprojResolveAssemblyReference.cache
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\04_PassagemParamOut\obj\Debug\04_PassagemParamOut.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\referencias\Sessao3\04_PassagemParamOut\obj\Debug\04_PassagemParamOut.pdb

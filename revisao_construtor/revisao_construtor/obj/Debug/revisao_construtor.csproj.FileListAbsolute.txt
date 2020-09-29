@@ -1,0 +1,6 @@
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\revisao_construtor\revisao_construtor\bin\Debug\revisao_construtor.exe.config
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\revisao_construtor\revisao_construtor\bin\Debug\revisao_construtor.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\revisao_construtor\revisao_construtor\bin\Debug\revisao_construtor.pdb
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\revisao_construtor\revisao_construtor\obj\Debug\revisao_construtor.csprojResolveAssemblyReference.cache
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\revisao_construtor\revisao_construtor\obj\Debug\revisao_construtor.exe
+C:\Users\Victor Pacheco\Documents\Visual Studio 2015\Projects\Curto_Udemy_e_gestao_C#_intermediario\revisao\revisao_construtor\revisao_construtor\obj\Debug\revisao_construtor.pdb
